@@ -1,4 +1,4 @@
-# face_detection_app
+# naneunpay mvp for frp
 
 A new Flutter project.
 
